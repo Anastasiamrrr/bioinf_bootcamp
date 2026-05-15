@@ -1,0 +1,9 @@
+simulation_output/
+results/
+*.vcf.gz
+*.vcf
+*.tbi
+*.log
+__pycache__/
+.peddy/
+.DS_Store
